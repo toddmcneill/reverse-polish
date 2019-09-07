@@ -1,0 +1,15 @@
+{
+  "name": "reverse-polish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Todd McNeill",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
