@@ -19,7 +19,7 @@ In reverse polish notation the expression is written as `5 2 + 8 3 * +`, which s
 `yarn start {expression}`  
 `npm start -- {expression}`
 
-`{expression}` must be space separated and surrounded by quotes. For example, `yarn start 1 1 +1` 
+`{expression}` must be space separated and surrounded by quotes. For example, `yarn start "1 1 +1"` 
 
 ---
 
